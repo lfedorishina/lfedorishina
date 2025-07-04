@@ -87,4 +87,4 @@ I am a manual QA with a strong background in gamedev. With newly 5 years in the 
 
 --- -->
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lfedorishina.lfedorishina)
