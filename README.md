@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About me:
 
-I am a manual QA with a strong background in gamedev. With newly 5 years in the gaming Industry and experience in testing, A/B testing and cross-functional collaboration, I focus on delivering high-quality experience to players. Constantly developing and enhancing skills in new aspects like web-testing, API, DB.
+I am a manual QA with a strong background in gamedev. With newly 5 years in the gaming Industry and experience in testing, A/B testing and cross-functional collaboration, I focus on delivering high-quality experience to players. Constantly developing and enhancing skills in new aspects like web-testing, API, DB. Here I share web and mobile testing portfolio items developed through courses and personal projects.
 
 - 📫 How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@lolitafedorishina-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lolita-fedorishina-b04103229/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:loli.fedorishina@gmail.com)
 
@@ -98,7 +98,16 @@ I am a manual QA with a strong background in gamedev. With newly 5 years in the 
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
+### 🧪 Test Artefacts:
+
+- [Webshop Testing](https://github.com/lfedorishina/web) - Test documentation and functional testing
+- [MySQL and MongoBD](https://github.com/lfedorishina/database) - SQL and NoSQL queries
+- [API Testing](https://github.com/lfedorishina/api/blob/main/README.md) - REST and SOAP via Postman
+- [Mobile app Testing](https://github.com/lfedorishina/mobile/blob/main/README.md) - manual test cases and bug reports
+- [Git and Bash](https://github.com/lfedorishina/git_bash/blob/main/README.md) - Basic version control operations with Git and file manipulation via Bash
+
+
+<!-- ### 💻 Completed Courses:
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
