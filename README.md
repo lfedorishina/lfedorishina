@@ -6,6 +6,10 @@
 
 I am a manual QA with a strong background in gamedev. With newly 5 years in the gaming Industry and experience in testing, A/B testing and cross-functional collaboration, I focus on delivering high-quality experience to players. Constantly developing and enhancing skills in new aspects like web-testing, API, DB. Here I share web and mobile testing portfolio items developed through courses and personal projects.
 
+📃 Here you can find my resume: [Lalita Fedaryshyna - QA Engineer (Manual)](https://drive.google.com/file/d/1ToienS2faXnTybfW76ToHC7ZXDN9e5Dk/view?usp=sharing) 
+
+
+
 - 📫 How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@lolitafedorishina-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lolita-fedorishina-b04103229/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:loli.fedorishina@gmail.com)
 
 ---
