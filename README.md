@@ -76,7 +76,10 @@ I am a manual QA with a strong background in gamedev. With newly 5 years in the 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/lfedorishina/assets/main/sourcetree.png" alt="SourceTree" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Meld_Logo.svg" alt="Meld" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000" alt="Meld" width="40"/>
 </div>
+
 
 ---
 
