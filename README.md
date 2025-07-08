@@ -6,7 +6,7 @@
 
 I am a manual QA with a strong background in gamedev. With newly 5 years in the gaming Industry and experience in testing, A/B testing and cross-functional collaboration, I focus on delivering high-quality experience to players. Constantly developing and enhancing skills in new aspects like web-testing, API, DB. Here I share web and mobile testing portfolio items developed through courses and personal projects.
 
-📃 Here you can find my resume: [Lalita Fedaryshyna - QA Engineer (Manual)](https://drive.google.com/file/d/1ToienS2faXnTybfW76ToHC7ZXDN9e5Dk/view?usp=sharing) 
+📃 Here you can find my resume: [Lalita Fedaryshyna - QA Engineer (Manual)](https://drive.google.com/file/d/12zJ5sW4zQjTYKptwiHReGQkb4wHta2jg/view?usp=sharing) 
 
 
 
