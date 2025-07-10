@@ -10,14 +10,14 @@ I am a manual QA with a strong background in gamedev. With newly 5 years in the 
 
 
 
-- 📫 How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@lolitafedorishina-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lolita-fedorishina-b04103229/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:loli.fedorishina@gmail.com)
+- 📫 How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@lolitafedorishina-blue?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/lolita-fedorishina) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:loli.fedorishina@gmail.com)
 
 ---
 
 ### 🤝 Social media:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/lolita-fedorishina-b04103229/" target="_blank">
+    <a href="www.linkedin.com/in/lolita-fedorishina" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/felolli" target="_blank">
