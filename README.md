@@ -10,14 +10,14 @@ I am a manual QA with a strong background in gamedev. With newly 5 years in the 
 
 
 
-- 📫 How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@lolitafedorishina-blue?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/lolita-fedorishina) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:loli.fedorishina@gmail.com)
+- 📫 How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-lalitafedaryshyna-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lolita-fedorishina) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:loli.fedorishina@gmail.com)
 
 ---
 
 ### 🤝 Social media:
 
   <div id="badges">
-    <a href="www.linkedin.com/in/lolita-fedorishina" target="_blank">
+    <a href="https://www.linkedin.com/in/lolita-fedorishina" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/felolli" target="_blank">
@@ -31,7 +31,7 @@ I am a manual QA with a strong background in gamedev. With newly 5 years in the 
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
-  <img src="https://cdn.worldvectorlogo.com/logos/atlassian-1.svg" title="Atlassian" alt="Atlassian" width="48" height="18"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/atlassian-1.svg" title="Atlassian" alt="Atlassian" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
   <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="tetstrail" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/lfedorishina/assets/main/CT-wnrQ-_400x400.jpg" title="Testomat.io" alt="Testomat.io" width="40" height="40"/>&nbsp;
